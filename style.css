@@ -1,0 +1,52 @@
+main{
+    height: 100vh;
+    background-repeat: no-repeat;
+}   
+
+.hero-img{
+    background-image: url("https://images.unsplash.com/photo-1508098682722-e99c43a406b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c29jY2VyJTIwc3RhZGl1bXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60");
+    background-size: 100%;
+}
+
+.blue{
+   background-color:#0303c1;
+}
+
+.row-tall{
+    height: 30em;
+}
+
+.score-box{
+    height: 60%;
+    width: 70%;
+    background-color: #5a90f4;
+    border-radius: .25em;
+    margin: auto;
+    box-shadow: 0 3px 15px #19b8fc;
+    border: 2px solid #19b8fc;
+}
+
+.box-border{
+    border: 2px solid #19b8fc;
+}
+
+.font-shadow{
+    text-shadow: 1px 1px 10px #19b8fc;
+}
+
+.big-font{
+    font-size: 70px;
+}
+
+.score-font{
+    font-size: 140px;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.point-font{
+    font-size: 120px;
+}
+
+.transparent{
+    opacity: .8;
+}
